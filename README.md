@@ -1,2 +1,0 @@
-# ubiquitous-spork
-hello world!
